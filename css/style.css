@@ -10,3 +10,10 @@ footer {
 }
 ol, ul, dl {margin: 5px 0px !important}
 th {text-align: center !important;}
+.character {
+    background: #999;
+    height: 100px;
+}
+.table {
+    overflow:hidden
+}
